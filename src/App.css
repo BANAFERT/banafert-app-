@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-vert-foret: #2C5E2E;
+  --color-terre-cuite: #B85D3F;
+  --color-beige-sable: #D9C5A7;
+  --color-brun-terre: #8B5A2B;
+  --color-blanc-casse: #F9F7F4;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
