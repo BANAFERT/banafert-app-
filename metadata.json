@@ -1,0 +1,6 @@
+{
+  "name": "BANAFERT",
+  "description": "Application mobile de diagnostic sol & recommandation fertilisante (Multilingue : Français/Arabe)",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
